@@ -1,0 +1,6 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\Laptop point\source\repos\ConsoleApplication13\ConsoleApplication13\PA_Candidate.h(28,17): warning C4552: '+': result of expression not used
+C:\Users\Laptop point\source\repos\ConsoleApplication13\ConsoleApplication13\NA_Candidate.h(28,17): warning C4552: '+': result of expression not used
+C:\Users\Laptop point\source\repos\ConsoleApplication13\ConsoleApplication13\Voter_Info.h(30,17): warning C4552: '+': result of expression not used
+C:\Users\Laptop point\source\repos\ConsoleApplication13\ConsoleApplication13\Voter_Info.h(87,16): warning C4552: '+': result of expression not used
+  ConsoleApplication13.vcxproj -> C:\Users\Laptop point\source\repos\ConsoleApplication13\x64\Debug\ConsoleApplication13.exe
